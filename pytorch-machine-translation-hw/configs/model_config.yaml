@@ -1,0 +1,8 @@
+---
+embedding_size: 256
+num_encoder_layers: 8
+hidden_size: 4096
+epoch_num: 30
+try_one_batch: False
+lr: 0.0001
+lr_decay: 0.1
